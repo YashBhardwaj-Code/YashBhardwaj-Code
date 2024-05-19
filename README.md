@@ -2,7 +2,7 @@
 - 👀 I’m interested in enhancing my coding and programming skills.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 You can reach me on discord: power81
+- 📫 You can reach out to me on discord: yxsh81
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming 🤫
 
