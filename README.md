@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashBhardwaj-Code
+- 👋 Hey, I am Yash Bhardwaj, a student with a passion to program!
 - 👀 I’m interested in enhancing my coding and programming skills.
 - 🌱 I’m currently learning Python & Front-End Development.
 - 💞️ I’m looking to collaborate on projects.
