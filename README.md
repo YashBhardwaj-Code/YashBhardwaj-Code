@@ -4,15 +4,15 @@
 Here are the languages and tools I work with:
 
 ### Frontend Development
-<code><img height="25" src="https://shields.io"/></code>
-<code><img height="25" src="https://shields.io"/></code>
-<code><img height="25" src="https://shields.io"/></code>
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
 
 ### Backend & Databases
-<code><img height="25" src="https://shields.io"/></code>
-<code><img height="25" src="https://shields.io"/></code>
-<code><img height="25" src="https://shields.io"/></code>
-<code><img height="25" src="https://shields.io"/></code>
+![NodeJS](https://shields.io)
+![ExpressJS](https://shields.io)
+![Python](https://shields.io)
+![SQL](https://shields.io)
 
 ### Tools & Package Managers
-<code><img height="25" src="https://shields.io"/></code>
+![NPM](https://shields.io)
