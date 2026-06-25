@@ -1,13 +1,18 @@
-- 👋 Hey, I am Yash Bhardwaj, a student with a passion to program!
-- 👀 I’m interested in enhancing my coding and programming skills.
-- 🌱 I’m currently learning Python & Front-End Development.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 You can reach out to me on my email: yash.bhardwaj2k10@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love programming 🤫
-- 💻 Prefered Code Editor: Visual Studio Code
+# Hello, I'm Yash!
 
-<!---
-YashBhardwaj-Code/YashBhardwaj-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack & Languages
+Here are the languages and tools I work with:
+
+### Frontend Development
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+
+### Backend & Databases
+![NodeJS](https://shields.io)
+![Express.js](https://shields.io)
+![Python](https://shields.io)
+![SQL](https://shields.io)
+
+### Tools & Package Managers
+![NPM](https://shields.io)
