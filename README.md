@@ -10,10 +10,10 @@ Here are the languages and tools I work with:
 
 
 ### Backend & Databases
-![NodeJS](https://shields.io)
-![ExpressJS](https://shields.io)
-![Python](https://shields.io)
-![SQL](https://shields.io)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Package Managers
-![NPM](https://shields.io)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
