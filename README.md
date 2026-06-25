@@ -1,4 +1,4 @@
-# Hello, I'm Yash! 👋
+# Hello, I'm Yash!
 
 ## About Me
 - High school student
