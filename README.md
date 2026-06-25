@@ -1,18 +1,18 @@
-# Hello, I'm Yash!
+# Hello, I'm Yash! 👋
 
 ## Tech Stack & Languages
 Here are the languages and tools I work with:
 
 ### Frontend Development
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+<code><img height="25" src="https://shields.io"/></code>
+<code><img height="25" src="https://shields.io"/></code>
+<code><img height="25" src="https://shields.io"/></code>
 
 ### Backend & Databases
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![Python](https://shields.io)
-![SQL](https://shields.io)
+<code><img height="25" src="https://shields.io"/></code>
+<code><img height="25" src="https://shields.io"/></code>
+<code><img height="25" src="https://shields.io"/></code>
+<code><img height="25" src="https://shields.io"/></code>
 
 ### Tools & Package Managers
-![NPM](https://shields.io)
+<code><img height="25" src="https://shields.io"/></code>
