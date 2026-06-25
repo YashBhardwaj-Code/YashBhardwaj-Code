@@ -1,5 +1,11 @@
 # Hello, I'm Yash! 👋
 
+## About Me
+- High school student
+- Aspiring Startup Founder
+- Learning the PERN Stack
+- Interested in AI and Entrepreneurship
+
 ## Tech Stack & Languages
 Here are the languages and tools I work with:
 
